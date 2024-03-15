@@ -1,0 +1,7 @@
+songs:
+  test1.mp3:
+    tags: [calm, town, light]
+  test2.mp3:
+    tags: [ethereal, haunting, beautiful]
+  test3.mp3:
+    tags: [upbeat, question, moving]
