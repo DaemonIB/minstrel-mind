@@ -1,6 +1,6 @@
 # Minstrel Mind - AI-Powered Music Recommendation for Story-Driven Games
 
-This Python script utilizes the OpenAI Chat Completion API to recommend appropriate songs based on the current state of a story in a game. It reads a configuration file (`config.yaml`) containing song information and uses the OpenAI API to determine which song should be played given the current story state.
+This application utilizes the OpenAI Chat Completion API to recommend and play appropriate songs based on the current state of a story in a game. It reads a configuration file (`config.yaml`) containing song information and uses the OpenAI API to determine which song should be played given the current story state.
 
 ## Features
 
